@@ -29,6 +29,6 @@ Results show that the fiber diameter and electrode porosity of these
 promising candidates exhibit a triangle-like joint distribution, with a
 preference for fiber diameters of around 5 μm with aligned
 arrangements.
-![alt text](https://github.com/HarryBinary/Porous-Electrode-Design/edit/main/Fig1.tif)
+![alt text](https://github.com/HarryBinary/Porous-Electrode-Design/edit/main/Picture6_c.png)
 
 [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0306261921006073)
