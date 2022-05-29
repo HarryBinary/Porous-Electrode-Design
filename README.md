@@ -30,6 +30,6 @@ promising candidates exhibit a triangle-like joint distribution, with a
 preference for fiber diameters of around 5 μm with aligned
 arrangements. <br/>
 
-![alt text](https://github.com/HarryBinary/Porous-Electrode-Design/edit/main/workflow.png)
+![workflow](/edit/main/workflow.png)
 
 [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0306261921006073)
