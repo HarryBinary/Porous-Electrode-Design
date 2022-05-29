@@ -17,8 +17,7 @@ method, morphological algorithm, and lattice Boltzmann method. Based on the data
 parameters and the output properties. Our best machine learning models achieve test errors of 1.91% and 11.48% for predicting specific surface area and hydraulic permeability, respectively. Then, combined with well-trained prediction models, a genetic algorithm is used to solve the multi-objective optimization problem. More than 700 promising candidates with larger specific surface area and higher hydraulic permeability than the commercial graphite felt electrodes are screened. Results show that the fiber diameter and electrode porosity of these promising candidates exhibit a triangle-like joint distribution, with a preference for fiber diameters of around 5 μm with aligned arrangements. <br/>
 
 ![workflow](/docs/workflow.png) <br/>
-**Figure 1:** Diagram of the multi-step design approach that incorporates dataset generation by numerical simulations, statistical mapping by machine learning regression
-models, multi-objective optimization by genetic algorithms, and screening for promising electrode structures. <br/>
+**Figure 1:** Diagram of the multi-step design approach. <br/>
 
 ## Cite
 S. Wan, X. Liang, H. Jiang, J. Sun, N. Djilali, and T. Zhao. Applied Energy 2021, **298**, 117177. [[Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0306261921006073)]
