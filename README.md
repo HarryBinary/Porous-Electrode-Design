@@ -33,4 +33,4 @@ arrangements. <br/>
 ![workflow](/docs/workflow.png)
 
 ## Cite
-S. Wan, X. Liang, H. Jiang, J. Sun, N. Djilali, and T. Zhao. Applied Energy 2021, **298**, 117177. [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0306261921006073)
+S. Wan, X. Liang, H. Jiang, J. Sun, N. Djilali, and T. Zhao. Applied Energy 2021, **298**, 117177. [[Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0306261921006073)]
