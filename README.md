@@ -28,7 +28,8 @@ permeability than the commercial graphite felt electrodes are screened.
 Results show that the fiber diameter and electrode porosity of these
 promising candidates exhibit a triangle-like joint distribution, with a
 preference for fiber diameters of around 5 μm with aligned
-arrangements.
+arrangements. <br/>
+
 ![alt text](https://github.com/HarryBinary/Porous-Electrode-Design/edit/main/workflow.png)
 
 [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0306261921006073)
