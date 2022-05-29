@@ -20,4 +20,4 @@ parameters and the output properties. Our best machine learning models achieve t
 **Figure 1:** Diagram of the multi-step design approach. <br/>
 
 ## Cite
-S. Wan, X. Liang, H. Jiang, J. Sun, N. Djilali, and T. Zhao. Applied Energy 2021, **298**, 117177. [[Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0306261921006073)]
+S. Wan, X. Liang, H. Jiang, J. Sun, N. Djilali, and T. Zhao. Applied Energy, 2021, 298, 117177. [[Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0306261921006073)]
