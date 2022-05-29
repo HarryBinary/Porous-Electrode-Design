@@ -30,6 +30,6 @@ promising candidates exhibit a triangle-like joint distribution, with a
 preference for fiber diameters of around 5 μm with aligned
 arrangements. <br/>
 
-![workflow](/edit/main/workflow.png)
+![workflow](/docs/workflow.png)
 
 [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0306261921006073)
