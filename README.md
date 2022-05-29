@@ -1,4 +1,4 @@
-# A coupled machine learning and genetic algorithm approach to the design of porous electrodes for redox flow batteries
+# A Coupled Machine Learning and Genetic Algorithm Approach to the Design of Porous Electrodes for Redox Flow Batteries
 **Shuaibin Wan**<sup>a,1</sup>, **Xiongwei Liang**<sup>a,1</sup>, **Haoran Jiang**<sup>a,d</sup>, **Jing Sun**<sup>a</sup>, **Ned Djilali**<sup>b,c,\*</sup>, **Tianshou Zhao**<sup>a,\*</sup> <br/>
 
 <sup>a</sup> Department of Mechanical and Aerospace Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong SAR, China <br/>
